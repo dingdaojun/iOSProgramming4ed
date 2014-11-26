@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B261B9B4-4321-4F6B-875C-247534AC9722</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Colorboard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>64065F53-236F-40B4-BBF9-D7A3DE9D8831</key>
+		<string>https://github.com/bignerdranch/iOSBook.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Solutions/28-UIStoryboard/Colorboard/Colorboard.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>64065F53-236F-40B4-BBF9-D7A3DE9D8831</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bignerdranch/iOSBook.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>64065F53-236F-40B4-BBF9-D7A3DE9D8831</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>64065F53-236F-40B4-BBF9-D7A3DE9D8831</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSBook</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "DcM-Ta-Pno"; */
+"DcM-Ta-Pno.text" = "Nombre";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "HFl-jt-j04"; */
+"HFl-jt-j04.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Serial"; ObjectID = "IyW-WC-s8a"; */
+"IyW-WC-s8a.text" = "Numéro de serie";
+
+/* Class = "IBUILabel"; text = "Value"; ObjectID = "JgR-jx-IXE"; */
+"JgR-jx-IXE.text" = "Valor";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Qyh-9V-hKs"; */
+"Qyh-9V-hKs.text" = "Label";
